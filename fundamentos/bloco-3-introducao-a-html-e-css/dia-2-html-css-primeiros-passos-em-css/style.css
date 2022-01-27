@@ -1,0 +1,17 @@
+h1 {
+    font-size: 61px;
+    color: orange;
+    font-family: sans-serif;
+}
+ul {
+    background-color: yellow;
+}
+.colores {
+    background-color: violet;
+}
+p {
+    font-weight: 600;
+}
+body{
+    font-size: 16px;
+}

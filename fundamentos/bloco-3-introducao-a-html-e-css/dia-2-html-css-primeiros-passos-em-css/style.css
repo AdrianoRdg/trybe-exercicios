@@ -4,7 +4,7 @@ h1 {
     font-family: sans-serif;
 }
 ul {
-    background-color: yellow;
+    background-color: blue;
 }
 .colores {
     background-color: red;
@@ -13,5 +13,5 @@ p {
     font-weight: 600;
 }
 body{
-    font-size: 16px;
+    font-size: 17px;
 }
